@@ -1,0 +1,2 @@
+config:
+ info: "master bransh,spring-cloud-config/config-dev.yml version=1"
